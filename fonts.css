@@ -1,0 +1,20 @@
+@font-face {
+  font-family: G-Lato-n4;
+  src: url('../data/fonts.gstatic.com_s_lato_v11_h7rISIcQapZBpei-sXwIwg.ttf');
+}
+@font-face {
+  font-family: "G-Source Sans Pro-n4";
+  src: url('../data/fonts.gstatic.com_s_sourcesanspro_v9_ODelI1aHBYDBqgeIAH2zlNRl0pGnog23EMYRrBmUzJQ.ttf');
+}
+@font-face {
+  font-family: "G-Open Sans-n6";
+  src: url('../data/fonts.gstatic.com_s_opensans_v13_MTP_ySUJH_bn48VBG8sNSi3USBnSvpkopQaUR-2r7iU.ttf');
+}
+@font-face {
+  font-family: "G-Open Sans-n4";
+  src: url('../data/fonts.gstatic.com_s_opensans_v13_IgZJs4-7SA1XX_edsoXWog.ttf');
+}
+@font-face {
+  font-family: G-Roboto-n4;
+  src: url('../data/fonts.gstatic.com_s_roboto_v15_W5F8_SL0XFawnjxHGsZjJA.ttf');
+}

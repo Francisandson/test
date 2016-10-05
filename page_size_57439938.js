@@ -1,0 +1,1 @@
+;(function(global) { global.DATA = {"size":{"width":1527,"height":2579,"scrollx":false,"scrolly":false}}; })(window);
